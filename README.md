@@ -1,7 +1,6 @@
-# Kernel-based-DR-methods-evaluation-A-trade-off-between-structure-preservation-and-separability
+# Joint exploration of kernel functions potential for data classification and representation: A first step toward interactive interpretable dimensionality reduction
 
-This repository contains the code used for the work "Kernel-Based-DR Methods Evaluation: A trade-off Between Structure Preservation and Separability" 
-by Ismail Bachchar et al. The code is implemented in Matlab R2021b and uses the Live Code File Format for interactive visualization.
+This repository contains the code used for the work "Joint exploration of kernel functions potential for data classification and representation: A first step toward interactive interpretable dimensionality reduction" by Ismail Bachchar et al supported by [SDAS Research Group](https://sdas-group.com/). The code is implemented in Matlab R2021b and uses the Live Code File Format for interactive visualization.
 
 ## Overview
 
